@@ -69,6 +69,11 @@ tmp/
 # Locally stored "Eclipse launch configurations"
 *.launch
 
+*.mvn/
+.mvn/
+mvnw
+mvnw.cmd
+
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
